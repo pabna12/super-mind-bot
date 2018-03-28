@@ -1,0 +1,12 @@
+{ "name" : "aponklbot"
+, "version" : "3.6.4"
+, "description" : "A packaged for upvote"
+, "main" : "bot.js"
+"scripts": {
+"start": "node bot.js"
+},
+"dependencis" {
+"discord.js": "11.1.0",
+"request":"2.81.0"
+  }
+}
